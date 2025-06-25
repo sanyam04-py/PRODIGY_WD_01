@@ -39,4 +39,4 @@ It includes core timer functionalities such as:
 
 ---
 
-Made with 💻 by Sanyam04-py
+Made with 💻 by Sanyam04-py, Poornima University
